@@ -2,4 +2,7 @@
 
 class Book
   
-  def in
+  def initialize
+  end
+  
+  def tit
