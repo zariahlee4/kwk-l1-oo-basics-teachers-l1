@@ -1,4 +1,7 @@
 # book.rb
 # Add you Book class here
 
-1)expect{Book.new("And Then There Were None")}
+class Book
+  
+  def initia
+1)expect{Book.new("lucid dreams")}.to_not raise_error
