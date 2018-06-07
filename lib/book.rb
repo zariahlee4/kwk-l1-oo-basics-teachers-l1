@@ -5,4 +5,6 @@ class Book
   def initialize
   end
   
-  def options_from_c
+  def title
+    
+    
